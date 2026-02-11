@@ -5,8 +5,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/531696165)
 [![OrcID Badge](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2133-5251)
 
-#### 👋 Hi, it's @moritzhuetten (he/him), I'm a Data Scientist at GRID Inc., Tokyo (Japan)
-#### 👀 I’m currently interested in spatio-temporal and meteorological data processing in the maritime context
+👋 Hi, it's @moritzhuetten (he/him), I'm a Data Scientist at GRID Inc., Tokyo (Japan)
+🔭 I’m currently interested in spatio-temporal and meteorological data processing in the maritime context
 
 <!--
 **moritzhuetten/moritzhuetten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
