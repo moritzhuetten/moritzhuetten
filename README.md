@@ -11,6 +11,8 @@
 )
 [![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C.svg?style=for-the-badge&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57008061000
 )
+[![Figshare Badge](https://img.shields.io/badge/figshare-556472.svg?style=for-the-badge&logo=figshare&logoColor=white)](https://figshare.com/authors/Moritz_H_tten/21335678
+)
 
 👋 Hi, it's [@moritzhuetten](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmoritzhuetten) (he/him), I'm a Data Scientist at GRID Inc., Tokyo (Japan)  
 🔭 I’m currently interested in spatio-temporal and meteorological data processing in the maritime context
