@@ -1,10 +1,10 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moritzhuetten?tab=followers)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/mhuetten)
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.world/@moritzhuetten)
-[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/moritzhuetten)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/531696165)
+[![X Follow](https://img.shields.io/badge/Follow-@moritzhuetten-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/moritzhuetten)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/531696165)
 [![OrcID Badge](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2133-5251)
-[![SciProfiles](https://img.shields.io/badge/SciProfiles-705332-darkblue?style=for-the-badge&logo=scholarly&logoColor=white)](https://sciprofiles.com/profile/705332)
+[![SciProfiles](https://img.shields.io/badge/SciProfiles-705332-003366?style=for-the-badge&logo=mdpi&logoColor=white)](https://sciprofiles.com/profile/705332)
 [![ResearchGate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Moritz-Huetten-2)
 
 👋 Hi, it's [@moritzhuetten](https://github.com/moritzhuetten) (he/him), I'm a Data Scientist at GRID Inc., Tokyo (Japan)  
