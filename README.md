@@ -1,4 +1,4 @@
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moritzhuetten?tab=followers)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmoritzhuetten)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/mhuetten)
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.world/@moritzhuetten)
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/moritzhuetten)
@@ -7,7 +7,7 @@
 [![SciProfiles](https://img.shields.io/badge/SciProfiles-003366?style=for-the-badge&logo=mdpi&logoColor=white)](https://sciprofiles.com/profile/705332)
 [![ResearchGate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Moritz-Huetten-2)
 
-👋 Hi, it's [@moritzhuetten](https://github.com/moritzhuetten) (he/him), I'm a Data Scientist at GRID Inc., Tokyo (Japan)  
+👋 Hi, it's [@moritzhuetten](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmoritzhuetten) (he/him), I'm a Data Scientist at GRID Inc., Tokyo (Japan)  
 🔭 I’m currently interested in spatio-temporal and meteorological data processing in the maritime context
 
 <!--
