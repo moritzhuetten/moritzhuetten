@@ -9,6 +9,8 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=Xsx6x9EAAAAJ)
 [![Insipre Badge](https://img.shields.io/badge/INSPIRE-00E5FF.svg?style=for-the-badge&logo=INSPIRE&logoColor=white)](https://inspirehep.net/authors/1645885
 )
+[![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C.svg?style=for-the-badge&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57008061000
+)
 
 👋 Hi, it's [@moritzhuetten](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmoritzhuetten) (he/him), I'm a Data Scientist at GRID Inc., Tokyo (Japan)  
 🔭 I’m currently interested in spatio-temporal and meteorological data processing in the maritime context
