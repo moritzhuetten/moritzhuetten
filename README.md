@@ -15,6 +15,8 @@
 )
 [![ArXiv Badge](https://img.shields.io/badge/arXiv-B31B1B.svg?style=for-the-badge&logo=arXiv&logoColor=white)](https://arxiv.org/search/?searchtype=author&query=H%C3%BCtten%2C+M
 )
+[![Academia Badge](https://img.shields.io/badge/Academia-41454A.svg?style=for-the-badge&logo=Academia&logoColor=white)](https://independent.academia.edu/Huetten
+)
 
 👋 Hi, it's [@moritzhuetten](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmoritzhuetten) (he/him), I'm a Data Scientist at GRID Inc., Tokyo (Japan)  
 🔭 I’m currently interested in spatio-temporal and meteorological data processing in the maritime context
