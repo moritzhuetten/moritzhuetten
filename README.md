@@ -19,8 +19,8 @@
 
 <br>
 
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/CL4R2WFFX8Q/maxresdefault.jpg)](https://youtu.be/CL4R2WFFX8Q)
-
+<!--[![YouTube Video Thumbnail](https://img.youtube.com/vi/CL4R2WFFX8Q/maxresdefault.jpg)](https://youtu.be/CL4R2WFFX8Q)-->
+[![YouTube Video Thumbnail](vessel_animation_youtube.jpg)](https://youtu.be/CL4R2WFFX8Q)
 <!--
 **moritzhuetten/moritzhuetten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
