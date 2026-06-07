@@ -15,9 +15,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MoritzHuetten)
 
 👋 Hi, it's [@moritzhuetten](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmoritzhuetten) (he/him), I'm a Data Scientist at GRID Inc., Tokyo (Japan)  
-🔭 I’m currently interested in spatio-temporal and meteorological data processing in the maritime context
-
-<br>
+🔭 I’m currently interested in spatio-temporal and meteorological data processing in the maritime context:
 
 <!--[![YouTube Video Thumbnail](https://img.youtube.com/vi/CL4R2WFFX8Q/maxresdefault.jpg)](https://youtu.be/CL4R2WFFX8Q)-->
 [![YouTube Video Thumbnail](vessel_animation_youtube.jpg)](https://youtu.be/CL4R2WFFX8Q)
